@@ -10,7 +10,7 @@ FileDock keeps two folders open side by side so you can browse, copy, move, rena
 
 ## Download
 
-[Download the latest public release](https://github.com/mark-snd/FileDock/releases)
+[Download the latest public release](https://github.com/svmark/FileDock/releases)
 
 The first public build is **FileDock 0.13.4 Public Beta**. It is signed with a Developer ID certificate issued to SNDWorks Co., Ltd. and notarized by Apple.
 
@@ -35,7 +35,7 @@ Intel Macs are not supported in the current build.
 
 ## Install
 
-1. Download `FileDock-0.13.4.dmg` from [Releases](https://github.com/mark-snd/FileDock/releases).
+1. Download `FileDock-0.13.4.dmg` from [Releases](https://github.com/svmark/FileDock/releases).
 2. Open the DMG and drag **FileDock** to **Applications**.
 3. Open FileDock from Applications or Spotlight.
 4. Choose **Open** if macOS displays the standard downloaded-app confirmation.
@@ -55,7 +55,7 @@ Please share the official Releases page instead of re-uploading or repackaging t
 
 ## Feedback
 
-Use [GitHub Issues](https://github.com/mark-snd/FileDock/issues) for reproducible bugs and feature requests. Do not include private file names, paths, account names, or confidential screenshots.
+Use [GitHub Issues](https://github.com/svmark/FileDock/issues) for reproducible bugs and feature requests. Do not include private file names, paths, account names, or confidential screenshots.
 
 ---
 
@@ -63,7 +63,7 @@ Use [GitHub Issues](https://github.com/mark-snd/FileDock/issues) for reproducibl
 
 FileDock은 Apple Silicon Mac용 네이티브 2분할 파일 탐색기입니다. 한 창에 두 폴더를 나란히 열고 파일을 복사·이동·정리할 수 있습니다.
 
-- 다운로드: [GitHub Releases](https://github.com/mark-snd/FileDock/releases)
+- 다운로드: [GitHub Releases](https://github.com/svmark/FileDock/releases)
 - 지원: Apple Silicon, macOS 15 이상
 - 검증 환경: macOS 26·27
 - 언어: 한국어·영어
