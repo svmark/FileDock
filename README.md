@@ -12,7 +12,7 @@ FileDock keeps two folders open side by side so you can browse, copy, move, rena
 
 [Download the latest public release](https://github.com/svmark/FileDock/releases)
 
-The first public build is **FileDock 0.13.4 Public Beta**. It is signed with a Developer ID certificate issued to SNDWorks Co., Ltd. and notarized by Apple.
+The current public build is **FileDock 0.14.3 Public Beta**. It is signed with a Developer ID certificate issued to SNDWorks Co., Ltd. and notarized by Apple.
 
 ## Requirements
 
@@ -26,6 +26,7 @@ Intel Macs are not supported in the current build.
 ## Highlights
 
 - Two folder panes in one native macOS window
+- Finder-style list with expandable folders, path bar, and status bar
 - Copy and move between panes by toolbar, keyboard, or drag and drop
 - Quick Look, rename, duplicate, trash, undo, and new-folder actions
 - One-pane mode with state restoration
@@ -35,7 +36,7 @@ Intel Macs are not supported in the current build.
 
 ## Install
 
-1. Download `FileDock-0.13.4.dmg` from [Releases](https://github.com/svmark/FileDock/releases).
+1. Download `FileDock-0.14.3.dmg` from [Releases](https://github.com/svmark/FileDock/releases).
 2. Open the DMG and drag **FileDock** to **Applications**.
 3. Open FileDock from Applications or Spotlight.
 4. Choose **Open** if macOS displays the standard downloaded-app confirmation.

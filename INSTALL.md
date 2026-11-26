@@ -2,10 +2,10 @@
 
 ## Installation
 
-1. Download `FileDock-0.13.4.dmg` from the GitHub Releases page.
+1. Download `FileDock-0.14.3.dmg` from the GitHub Releases page.
 2. Double-click the DMG.
 3. Drag **FileDock** to the **Applications** folder shown in the window.
-4. Eject the `FileDock 0.13.4` disk.
+4. Eject the `FileDock 0.14.3` disk.
 5. Open FileDock from Applications or Spotlight.
 
 The app is signed with a Developer ID certificate and notarized by Apple. The first launch may show the standard “downloaded from the Internet” confirmation. Choose **Open**. If macOS reports an unidentified or damaged app, do not bypass the warning; report it through GitHub Issues with the macOS version and the exact message.
@@ -40,7 +40,7 @@ defaults delete ai.sndworks.folderheaven
 
 ## 한국어
 
-1. Releases에서 `FileDock-0.13.4.dmg`를 내려받아 엽니다.
+1. Releases에서 `FileDock-0.14.3.dmg`를 내려받아 엽니다.
 2. **FileDock**을 **Applications(응용 프로그램)** 폴더로 끌어 놓습니다.
 3. 응용 프로그램 폴더에서 FileDock을 실행합니다.
 4. 인터넷에서 받은 앱이라는 확인 창이 나오면 **열기**를 누릅니다.
